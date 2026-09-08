@@ -1,2 +1,4 @@
-# Desafio-Full-Cycle-Docker-Nginx-Com-Node
-Desafio módulo Docker - Nginx com Node
+# Desafio Full Cycle - Nginx & Node
+
+Para executar o projeto basta rodar:
+`docker-compose up`
